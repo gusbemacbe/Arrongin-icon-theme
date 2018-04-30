@@ -6,7 +6,7 @@ Icontheme to be used with the GTK theme: https://github.com/paullinuxthemer/Arro
 
 
 Arrongin icon-theme is a adaptation from the original Suru icontheme 
-made by Sam Hewitt ([URL=https://github.com/snwh]Link to github page[/URL])
+made by Sam Hewitt (https://github.com/snwh)
 
 The original Suru icon set and concept was created by:
 
